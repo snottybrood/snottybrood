@@ -14,27 +14,21 @@
 
 ## `$ whoami`
 
-I’m a geospatial analyst and environmental data scientist working at the intersection of **climate systems**, **data infrastructure**, and **governance**.
+The old world was built on stable seasons, predictable infrastructure, and environmental assumptions that no longer hold.
 
-My work spans federal environmental health programs (NASA · EPA · NIEHS), community-scale public health research, and emerging AI-adjacent data systems. I build analytical pipelines that translate complex environmental data into **decision-grade insight** — for planners, researchers, and communities navigating climate risk.
+Black Lattice emerged from the realization that we are entering a post-stationary era. A period where heat, water, migration, energy, and public health systems no longer behave according to the historical baselines institutions were designed around.
 
-I’m especially interested in where traditional models fail:
-- static risk frameworks in dynamic climates  
-- data systems that obscure lived experience  
-- infrastructure decisions built on outdated assumptions  
+I use geospatial analysis, computational infrastructure, and environmental data systems to study how instability propagates across human landscapes. The work spans federal environmental health programs (NASA · EPA · NIEHS), community-scale public health research, and emerging AI-adjacent analytical systems focused on climate acceleration, environmental telemetry, and infrastructure stress dynamics.
 
-Black Lattice is the structure I use to explore and apply those ideas in practice.
+Most environmental platforms ask where risk exists.
 
----
+Black Lattice asks how systems begin to fail.
 
-### Core Capabilities
-- Python-first geospatial pipelines · SQL · ArcGIS Pro · Google Earth Engine  
-- Climate risk modeling · environmental justice analytics · spatial statistics  
-- Raster + vector integration (CORDEX, PRISM, FEMA, ACS)  
-- KPI systems · program evaluation · federal reporting workflows  
-- Research ethics (CITI certified) · data governance  
+Projects explore thermal volatility, drought amplification, cascading regional disruption, and the hidden architectures that determine which communities absorb instability and which are insulated from it. Current work includes climate scenario modeling, environmental justice analytics, geospatial AI training pipelines, and decision-grade reporting systems for planners, researchers, and resilience institutions operating under conditions of accelerating uncertainty.
 
-Currently exploring: geospatial ML · AI training data pipelines · Power BI / Tableau
+Part research laboratory, part strategic observatory, Black Lattice functions as an experimental framework for modeling environmental instability in the twenty-first century.
+
+Built for the post-stationary era.
 
 ---
 
