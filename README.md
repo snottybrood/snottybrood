@@ -38,7 +38,7 @@ Built for the post-stationary era.
 
 ---
 
-### [“Black Lattice Method: Measuring System Failure Under Non-Stationary Climate Stress”](https://github.com/zbatesno15c/climate-scenario-modeling)
+### [“Black Lattice Method: Measuring System Failure Under Non-Stationary Climate Stress”](https://github.com/snottybrood/Measuring-System-Failure-Under-Non-Stationary-Climate-Stress)
 **CORDEX climate projections · raster pipelines · Python (xarray, geopandas)**
 
 End-to-end pipeline for processing regional climate model outputs into actionable risk indicators. Translates raw climate projections into flood recurrence and heat exposure insights for planning and resilience applications.
@@ -47,12 +47,31 @@ End-to-end pipeline for processing regional climate model outputs into actionabl
 
 ---
 
-### environmental-justice-flood-analysis  
+### [“Crystal Catchment”](https://snottybrood.github.io/crystal-catchment-game/)
+**Low poly · Environmental Simulation Game · Water/Land Management**
+
+A strategy simulation game where players manage water, cities, and ecosystems across evolving landscapes while balancing survival, growth, droughts, floods, and long-term sustainability.
+
+`#hazard-risk` `#water resources` `#land resources` `#resource management`
+
+---
+
+### ["Rainstorms and Refugees"](https://rainrefzb.my.canva.site/)  
 **Flood exposure disparity analysis · ArcGIS Pro · Python · Census API**
 
-Spatial analysis showing disproportionate flood risk exposure across demographic groups. Integrates FEMA flood layers, PRISM climate data, and ACS population metrics into a reproducible workflow for environmental justice assessment.
+Spatial analysis showing disproportionate flood risk exposure across demographic groups. Integrates FEMA flood layers, PRISM climate data, PRISM projections, and ACS population metrics into a reproducible workflow for environmental justice assessment.
 
 `#environmental-justice` `#flood-risk` `#spatial-analysis` `#python`
+
+---
+
+### [“Redline Congressional Boundary Intelligence System”](https://snottybrood.github.io/redline-cbis/)
+**Post Callais · Fair District Tracking · District Creation Tool**
+
+Automated monitoring of gerrymandering as a fairness index map. Built to track and legtitimize voting rights, gerrymandering, and the consititution.
+
+
+`#social-risk` `#gerrymandering` `#spatial-analysis` `#geospatial`
 
 ---
 
